@@ -1,1 +1,1 @@
-# dulcerincon
+Este proyecto es diseñado para visualizar un negocio de postres con fines académicos. Las imágenes y el contenido pertenecen a (Kamila Ramirez Navarro). Se puede utilizar siempre y cuando se cite al autor.# dulcerincon
